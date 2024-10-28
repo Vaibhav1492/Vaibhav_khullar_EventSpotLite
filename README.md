@@ -1,64 +1,70 @@
-# **Event Manager App** 🎉
+# Getting Started with Create React App
 
-A simple, interactive **Event Manager App** built with **React.js**. This application allows users to view events, search for events by name or location, and see detailed information about each event using a **modal with animations**.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
----
+## Available Scripts
 
-## **Features** 🌟
+In the project directory, you can run:
 
-- **Event List**: Displays a list of events with their date and location.
-- **Search Functionality**: Users can search for events based on their name or location.
-- **Event Modals**: Clicking on an event opens a detailed modal view with smooth animations.
-- **Responsive Design**: Works well on desktops and mobile devices.
-- **Mock Data**: Uses a set of mock events for demonstration.
+### `npm start`
 
----
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## **Technologies Used** 🛠️
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-- **React.js**: JavaScript library for building the user interface.
-- **@react-spring/web**: For animations in the modal view.
-- **CSS**: Used to style the components and layout.
+### `npm test`
 
----
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
----
+### `npm run build`
 
-## **Getting Started** 🚀
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Follow the instructions below to set up and run the project locally on your machine.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-### **Prerequisites**
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-- **Node.js** (version 14 or higher) installed on your system.
-- **Git** installed to clone the repository.
+### `npm run eject`
 
-### **How to Install**
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-1. **Clone the Repository**  
-   Open your terminal and run:
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-   ```bash
-   git clone https://github.com/Vaibhav1492/Vaibhav_khullar_EventSpotLite.git
-   cd Vaibhav_khullar_EventSpotLite
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-2. **Install Dependencies**  
-   Inside the project folder, run:
+## Learn More
 
-   ```bash
-   npm install
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-3. **Run the Application**  
-   Start the development server with:
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-   ```bash
-   npm start
+### Code Splitting
 
-1. **Open in Browser**  
-   Open your browser and go to:
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-   ```bash
-   http://localhost:3000
+### Analyzing the Bundle Size
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
